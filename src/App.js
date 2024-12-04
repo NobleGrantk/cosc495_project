@@ -15,7 +15,11 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+
+        <div>
+          
+        </div>
+          Learn React with us COSC 495 project
         </a>
       </header>
     </div>
